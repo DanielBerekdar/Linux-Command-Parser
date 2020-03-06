@@ -1,5 +1,5 @@
 # Linux-CommandParser
-Simple Java Program to Parse Parameters out of a Linux Command
+Simple Java Program to parse Parameters out of a Linux Command
 
    The CommandParser function will take in a linux command and filter their parameters and add them to an ArrayList.
     Example input: /this/is/a/command -f fruit -a dog -d "this is a description" -l maine
